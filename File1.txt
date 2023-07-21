@@ -1,1 +1,2 @@
 Welcome to GIT Session!!!
+We will be learning Basics of GIT today.
