@@ -1,10 +1,10 @@
-Welcome to GIT Session!!!.*
-We will be learning Basics of GIT today..*
-Then GIT Branching, stashing, tagging, rebasing concepts on day2 and day3..*
-New line added to check the diff.
+Welcome - to GIT Session!!!.*
+We - will be learning Basics of GIT today..*
+Then - GIT Branching, stashing, tagging, rebasing concepts on day2 and day3..*
+New - line added to check the diff.
 
-Demo undo commited changes..
-Line 2 added to verify the undo operation after commit..
+Demo - undo commited changes..
+Line - 2 added to verify the undo operation after commit..
 
 Function Bug123Fix(){
 // Do something *
