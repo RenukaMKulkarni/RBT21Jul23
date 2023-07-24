@@ -2,3 +2,5 @@ Welcome to GIT Session!!!
 We will be learning Basics of GIT today.
 Then GIT Branching, stashing, tagging, rebasing concepts on day2 and day3.
 New line added to check the diff
+
+Demo undo commited changes.
