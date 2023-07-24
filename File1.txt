@@ -10,3 +10,4 @@ Function Bug123Fix(){
 // Do something *
 //here to fix the bug123..
 }
+new line for CR2.
