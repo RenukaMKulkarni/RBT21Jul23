@@ -15,3 +15,5 @@ New line added for stash demo, my WIP not completed yet.
 New line added remotely by team member.
 
 New line added to verify conflicts while working on remote repository.
+
+New line adde by team member to check remote conflict.
